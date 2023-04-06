@@ -1,0 +1,10 @@
+Numeric:
+	For precision numbers:
+		For example: 1234.56, 56.3, 123,456
+
+	Ways for using:
+		1. numeric(5, 2): 123.45, 567.89, 901,246 =>901,25
+
+		2. numeric(5): 12345, 56789
+
+		3. numeric: 1234, 54, 23.67, 1234567876543.54323456
