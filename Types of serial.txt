@@ -1,0 +1,11 @@
+Types of serial:
+	3 types of serial:
+		Serial:	 autoincrement:	1. something
+				                 	2.somethisng  etc.
+	
+		1. BIGSERIAL
+
+		2. SERIAL
+
+		3. SMALLSERIAL
+
