@@ -1,0 +1,9 @@
+Floating numbers:
+	>  REAL (4 Bytes)
+
+	> DOUBLE PRECISION (8 Bytes)
+
+	> 123.56, 345.577
+
+		Not use this type of numbers for math, use numeric numbers. They are more comfortable for you, computer
+
