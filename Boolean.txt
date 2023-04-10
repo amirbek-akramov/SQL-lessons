@@ -1,3 +1,0 @@
-Boolean:
-	True/False
-		For example: is_married: True/False
